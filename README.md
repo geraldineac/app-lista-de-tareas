@@ -2,4 +2,4 @@
 Mi primera app de Lista de Tarea
 
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-tlgjza)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/task-list-angular-ivy)
