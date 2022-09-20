@@ -6,5 +6,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: [ './button.component.css' ]
 })
 export class ButtonComponent  {
-  name = 'Angular ' + VERSION.major;
+  constructor (){}
+
+  ngOnInit () {
+    
+  }
 }
